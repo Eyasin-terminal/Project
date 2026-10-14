@@ -1,0 +1,6 @@
+{
+  "name": "GameZone Global · Data Integrity & Supply Chain Audit",
+  "description": "Interactive executive showcase of a BI Analyst data cleaning and logic audit for GameZone Global. Fast recruiter briefing, interactive anomaly inspector, and root cause analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
